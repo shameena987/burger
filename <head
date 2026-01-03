@@ -27,8 +27,16 @@
     < <a href="/home">home</a> | 
   <a href="/contact">Contact</a> | 
   <a href="/privacy">Privacy</a>
-      <a href="https://shameena987.github.io/burger/
-</head>">
+      <a href="https://shameena987.github.io/burger/>
+<nav>
+    <ul>
+      <li><a href="/">Home</a></li>
+      <li><a href="/about">About</a></li>
+      <li><a href="/services">Services</a></li>
+    </ul>
+  </nav>
+      
+</head>>
   <img src="1" alt="burger">
 </a>  
 
